@@ -2,29 +2,30 @@
   <img src="banner.jpg" alt="Image Spell Banner" width="100%">
   
   <h1>✨ Image Spell</h1>
-  <p><b>Волшебный инструмент для обработки и манипуляции изображениями. Ваша библиотека высококачественных промптов и каналов для генерации ИИ-изображений.</b></p>
+  <p><b>A personal project for exploring AI capabilities in image generation and a curated collection of prompts.</b></p>
   
   <p>
-    <a href="#описание">Описание</a> •
-    <a href="#возможности">Возможности</a> •
-    <a href="#установка">Установка</a>
+    <a href="#about">About</a> •
+    <a href="#features">Features</a> •
+    <a href="#getting-started">Getting Started</a>
   </p>
 </div>
 
 ---
 
-## 🔮 Описание
-**Image Spell** — это стильный веб-каталог и библиотека, которая помогает пользователям ориентироваться в мире высококачественной генерации изображений с помощью ИИ. Проект поддерживает несколько языков и отличается современным дизайном с элементами glassmorphism (стекломорфизм) и "темной темой".
+## 🔮 About
+**Image Spell** is my personal playground and library dedicated to diving deep into the world of AI image generation. It serves as a testing ground for discovering new capabilities of AI models and as a curated vault of high-quality prompts. The project features a modern, multilingual web interface built with a glassmorphism aesthetic and dark mode styling.
 
-## 🚀 Возможности
-- 🌍 **Мультиязычность**: Поддержка английского, русского, португальского и испанского языков.
-- 🎨 **Современный UI**: Красивый темный дизайн, эффекты прозрачности и матового стекла.
-- 📚 **Каталог промптов**: Обширная библиотека запросов для генерации потрясающих изображений.
+## 🚀 Features
+- 🧠 **AI Exploration**: Documenting and exploring various AI image generation techniques and possibilities.
+- 📚 **Prompt Vault**: A personal collection of refined prompts for generating stunning and precise AI imagery.
+- 🌍 **Multilingual**: Supports English, Russian, Portuguese, and Spanish.
+- 🎨 **Modern UI**: Sleek dark mode design with transparency and frosted glass effects.
 
-## 💻 Установка
-Проект представляет собой статический веб-сайт, поэтому установка очень проста:
-1. Склонируйте репозиторий:
+## 💻 Getting Started
+Since this is a static website, exploring it is straightforward:
+1. Clone the repository:
    ```bash
    git clone https://github.com/v1per4ever/imagespell.git
    ```
-2. Откройте `index.html` в вашем любимом браузере или запустите через Live Server.
+2. Open `index.html` in your favorite web browser or run it via Live Server to see the interface.
