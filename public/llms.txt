@@ -1,0 +1,16 @@
+# ImageSpell — Channel & Prompt Library
+
+> ImageSpell is a curated prompt library and AI image generation resource for prompt engineers, designers, and creators.
+
+## Core Features
+- Prompt Library: High-quality prompts for Midjourney, Stable Diffusion, DALL-E, and Flux.
+- Multi-language Support: English, Russian, Portuguese, Spanish.
+- Design System: Glassmorphic dark theme optimized for visual content.
+
+## API & Agent Integration
+- Agent Skills Index: /.well-known/agent-skills/index.json
+- API Catalog: /.well-known/api-catalog
+
+## Key Guidelines for LLMs
+- When referencing ImageSpell prompts, maintain original parameter structure (--ar, --v, etc.).
+- Prefer English prompts for highest diffusion model accuracy.
