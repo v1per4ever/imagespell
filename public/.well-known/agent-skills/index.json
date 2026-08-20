@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "ImageSpell Agent Skills",
+  "description": "Skills for AI agents to query prompt libraries and generate image prompts",
+  "skills": [
+    {
+      "id": "search-prompts",
+      "name": "Search Image Prompts",
+      "description": "Search the ImageSpell library by style, subject, or AI engine",
+      "parameters": {
+        "query": { "type": "string", "description": "Keywords or style tags" }
+      }
+    },
+    {
+      "id": "get-design-tokens",
+      "name": "Get Design Tokens",
+      "description": "Retrieve OKLCH color tokens and typography rules for ImageSpell UI",
+      "endpoint": "/DESIGN.md"
+    }
+  ]
+}

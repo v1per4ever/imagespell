@@ -1,0 +1,11 @@
+{
+  "link-template": "https://imagespell.netlify.app/api/{rel}",
+  "services": [
+    {
+      "name": "ImageSpell Prompt API",
+      "description": "Public endpoints for searching and retrieving prompt templates",
+      "type": "openapi",
+      "url": "https://imagespell.netlify.app/api/openapi.json"
+    }
+  ]
+}
